@@ -5,3 +5,7 @@
     font-size: 40px;
     font-weight: bold;
 }
+
+.header .navbar{
+    position: relative;
+}
